@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyncik.
 - 👀 I’m interested in computational modelling in biomechanics.
-- 🌱 I’m currently learning Git and related issues.
+- 🌱 I’m currently learning GitHub and all its advantages.
 - 💞️ I’m looking to collaborate on female pelvic floor modelling.
 - 📫 You reach me at ludek.hyncik@gmail.com.
 
