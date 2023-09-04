@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hyncik.
+- 👋 Hi, I’m Luděk.
 - 👀 I’m interested in computational modelling in biomechanics.
 - 💞️ I’m looking to collaborate on female pelvic floor modelling.
 - 📫 You reach me at hyncik@ntc.zcu.cz or ludek.hyncik@gmail.com.
